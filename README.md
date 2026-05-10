@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Manshi 🔆
 
-🎓 **Computer Science Student | 8th Semester | TU Affiliated College**  
+🎓 **Computer Science Student**  
 💻 **Passionate about Web Development, Machine Learning**  
 📚 Love exploring **C, C++, PHP, JavaScript, React, MongoDB, SQL, Machine Learning**   
 🏏 Cricket fan | 🎬 Movie buff | 📖 Avid Reader  
